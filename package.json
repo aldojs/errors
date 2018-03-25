@@ -1,0 +1,31 @@
+{
+  "name": "errors",
+  "version": "1.0.0",
+  "description": "HTTP errors for Node.js 8",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "lib",
+    "index.d.ts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldojs/errors.git"
+  },
+  "keywords": [
+    "http",
+    "error",
+    "create-error"
+  ],
+  "author": "absolux",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aldojs/errors/issues"
+  },
+  "homepage": "https://github.com/aldojs/errors#readme"
+}
